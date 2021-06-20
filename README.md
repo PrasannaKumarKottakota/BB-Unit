@@ -5,5 +5,6 @@ Note : ZCU111 is an RFSoC. So, it is special since it has BBU with IF.
 Signal Processing Techniques invoved in Communication are
 1. Source Coding : To save the bandwidht.
 2. Channel Coding : It is also know Error Control Coding, are used to control the bit errors at higher bandwith with low Signal to Noise Ratio (SNR).In other words to reduce the bit error rate at low signal to noise ratio.
-3. Transmission Techniques : OFDM, MIMO are used to achive specturm & energy efficency in the sytem.
+3. Mapping Schemes : To map bits to symbols and vise versa.
+4. Transmission Techniques : OFDM, MIMO are used to achive specturm & energy efficency in the sytem.
  
